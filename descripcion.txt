@@ -1,5 +1,0 @@
-Universidad Poitecnica Salesiana
-Carrera de ingenieria en sistemas
-Seminario Profesional - Node.js + mongo db
-
-clases - diapositivas sobre las clases de este seminario
