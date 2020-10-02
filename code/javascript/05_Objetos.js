@@ -1,15 +1,15 @@
 var estudiante = {
-    nombre: 'Gabriela',
-    apellido: 'Farias',
-    trabajo: 'Claro',
-    correo: 'fariasgc@globalhitss.com'
+    nombre: 'Jose',
+    apellido: 'Contreras',
+    trabajo: 'Contifico',
+    correo: 'jcontreras@contifico.com'
 
 }
 var estudiante2 ={
-    nombre: 'Carolina',
-    apellido: 'Olivares',
-    trabajo: 'Claro',
-    correo: 'colivares@globalhitss.com'
+    nombre: 'Luis',
+    apellido: 'Rodriguez',
+    trabajo: 'Contifico',
+    correo: 'lrodriguez@contifico.com'
  
 }
 

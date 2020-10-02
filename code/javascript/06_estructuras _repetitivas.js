@@ -1,6 +1,6 @@
 let persona = {
-    nombres: 'Gabriela Farias',
-    apellidos: 'Lopez Vega',
+    nombres: 'Jose Maria',
+    apellidos: 'Contreras Pincay',
     peso: 140,
 }
 

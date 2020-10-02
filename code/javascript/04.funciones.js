@@ -1,4 +1,4 @@
-var nombreApellido = 'Gabriela Farias'
+var nombreApellido = 'Jose Contreras'
 var edad = 37
 
 //FUNCION TIPO DECLARATIVA
