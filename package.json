@@ -9,7 +9,7 @@
   "keywords": [
     "utcae"
   ],
-  "author": "Jose Contreras",
+  "author": "David Leon",
   "license": "GPL-3.0",
   "dependencies": {
     "body-parser": "^1.19.0",
